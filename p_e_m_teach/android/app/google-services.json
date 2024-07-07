@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "239192445583",
+    "project_id": "p-e-m-teach-gl94fn",
+    "storage_bucket": "p-e-m-teach-gl94fn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239192445583:android:5c6f20aaac890bc91d96fa",
+        "android_client_info": {
+          "package_name": "com.mycompany.pemteach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239192445583-6njnbimghmhs0b83jcs8hhaoeod0e13l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.pemteach",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "239192445583-i0v0452qtdgluininsrkosajagl6fnv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ17190RcpnMrccmDdtctDazho4hqnLO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239192445583-i0v0452qtdgluininsrkosajagl6fnv4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "239192445583-q7n7389b46jcmls9k2038d7jj90260sd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.pemteach"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
